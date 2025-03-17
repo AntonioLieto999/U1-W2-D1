@@ -14,7 +14,7 @@ REGOLE
 "numeri, stringhe, booleani, null e undefined";
 // i numeri vengono visualizzati in modo diverso, le stringhe vengono visualizzate come parole (cioè concatenate),
 //i booleani sono utilizzare per true o false, che in programmazione vengono usati per dare una direzione,
-//null si utilizzare per annulare una variabile che è simile ad undefined, ma visto che undefined è di defoult
+//null si utilizzare per annulare una variabile che è simile ad undefined, ma visto che undefined è di default
 //per cose create da noi si consiglia di utilizzare null per capire cosa è stato nullificato da noi stessi
 
 /* ESERCIZIO 2
@@ -52,7 +52,7 @@ console.log(myName);
 */
 
 let numb3 = 4;
-console.log(4 - X);
+console.log(numb3 - X);
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
