@@ -12,7 +12,7 @@ REGOLE
 */
 
 "numeri, stringhe, booleani, null e undefined";
-//i numeri vengono visualizzati in modo diverso dalle parole, le stringhe vengono
+//i numeri vengono visualizzati in modo diverso dalle parole,
 //le stringhe vengono visualizzate come parole (cioè concatenate)
 //i booleani sono utilizzare per true o false, che in programmazione vengono anche usati per dare una direzione,
 //null si utilizza per annulare una variabile che è simile ad undefined, ma visto che undefined è di default
@@ -61,7 +61,7 @@ console.log(numb3 - X);
  EXTRA: verifica che la loro uguaglianza diventi true se entrambe vengono trasformate in lowercase (senza cambiare il valore di name2!).
 */
 
-let name1 = "john";
+let name1 = "paperino";
 let name2 = "John";
 console.log(name1 !== name2);
-console.log(name1.toLocaleLowerCase === name2.toLocaleLowerCase);
+console.log(name1.toLocaleLowerCase() === name2.toLocaleLowerCase());
