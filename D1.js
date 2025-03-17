@@ -12,8 +12,8 @@ REGOLE
 */
 
 "numeri, stringhe, booleani, null e undefined";
-// i numeri vengono visualizzati in modo diverso dalle parole, le stringhe vengono
-// visualizzate come parole (cioè concatenate),
+//i numeri vengono visualizzati in modo diverso dalle parole, le stringhe vengono
+//le stringhe vengono visualizzate come parole (cioè concatenate)
 //i booleani sono utilizzare per true o false, che in programmazione vengono anche usati per dare una direzione,
 //null si utilizza per annulare una variabile che è simile ad undefined, ma visto che undefined è di default
 //per cose create da noi si consiglia di utilizzare null per capire cosa è stato nullificato da noi stessi
